@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<img width="auto" src="https://github.com/FelipeQq/felipequeiroz/blob/main/Github_2.jpg?raw=true">
 
 
 # Felipe Queiroz
